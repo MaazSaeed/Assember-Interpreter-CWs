@@ -4,6 +4,8 @@ Assembler Interpreter Kata (2 kyu) on Codewars.
 The kata is ranked 2 kyu and the task is to build an interpreter for assembly language with functions,
 jump statements and strings also requiring to build a tokenizer for the programs.
 
+Below are the instructions supported by the interpreter.
+
 mov x, y - copy y (either an integer or the value of a register) into register x.
 inc x - increase the content of register x by one.
 dec x - decrease the content of register x by one.
